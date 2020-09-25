@@ -215,6 +215,7 @@ Esto corresponde a una medida distinta a la que ofrece el fabricante por su cat�
 
 Ahora haremos la comparación de medidas reales vs medidas fabricante 
 
+
 Camisa Cilindro	Posición	Valor Medido	Valor Catalogo	Diferencia
 Diámetro Superior A [mm]	0°	100,05	100,01	0,05
 	120°	100,04	100,01	0,03
@@ -225,6 +226,11 @@ Diámetro Intermedio B [mm]	0°	100,03	100,01	0,02
 Diámetro Inferior C [mm]	0°	100,02	100,01	0,01
 	120°	100,03	100,01	0,02
 	240°	100,03	100,01	0,02
+
+
+
+
+
 
 Cigüeñal	Valor Medido	Valor Catalogo	Diferencia
 DM Biela 0°	59,94	59,94	0	
