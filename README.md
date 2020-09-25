@@ -78,3 +78,167 @@ https://laverdadnoticias.com/ecologia/Sabes-cuanto-contamina-un-auto-20190917-02
 Este último es solo referencia para ver especificaciones de Zero SR/F
 https://www.zeromotorcycles.com/model/zero-srf 
 
+
+
+
+
+
+
+
+
+
+Infore II: Mediciones y Desarme MCI
+
+
+ 
+Resumen:
+
+En este informe se tratarán temas relacionados a los MCI, mostrando las partes y diferencias de funcionamiento entre un MECH y un MEC. También se tratarán mediciones del motor Deutz F3L912.
+ 
+ 
+
+INTRODUCCIÓN:
+
+Como se mencionó anteriormente, se trabajará en base a un motor Deutz F3L912, con información proporcionada por fabricante. Se contrastará la información del fabricante con mediciones en laboratorio. Además se verán las diferencias entre motores MECH y MEC, las piezas principales de un motor MCI.
+
+
+ 
+DESARROLLO:
+
+
+
+Pregunta 1: Reconocer piezas de un MCI
+
+
+
+Block: 
+
+ 
+
+El block (o bloque, en español) es la zona del motor donde se “alojan” los demás componentes, es la base del motor. El block también determina la disposición de los pistones, en el caso de la foto, es un V8, esto quiere decir que los pistones forman una “V” y que hay 8 pistones (4 por cada lado)
+
+
+
+
+
+
+
+
+
+
+
+Pistón (o pistones, según sea el caso):
+
+  
+El pistón del motor es donde sucede la combustión del combustible, es decir, donde se transforma la energía química en energía mecánica.  El pistón va dentro de las cavidades circulares del block y va conectado a un eje de levas por medio de la biela, donde se transmite el movimiento rectilíneo del pistón al eje. Acá se hace la diferencia entre los MECH y los MEC, ya que en los primeros la combustión ocurre por una chispa generada por una bujía, mientras que en los MEC la combustión ocurre por la compresión del combustible.
+
+
+
+Bujía (solo aplica para los MECH)
+  
+La bujía es la encargada de generar la chispa que enciende el combustible, en la parte de debajo de la foto es donde específicamente se genera la chispa.
+
+
+
+Árbol de levas (o eje de levas):
+
+
+El eje de levas es quien mueve los pistones de hacía abajo y hacía arriba, va conectado a un cigüeñal. El eje de levas es quien transmite la potencia de los pistones al cigüeñal.
+
+
+
+Cigüeñal:
+ 
+El cigüeñal es quien transforma la potencia de los pistones en movimiento, es decir, transforma el movimiento rectilíneo alternativo en movimiento circular uniforme ( y viceversa).
+
+
+
+Culata: 
+ 
+La culata es la parte más alta del motor, es básicamente una tapa que tapa (valga la redundancia) los pistones.
+
+
+
+Múltiple de escape:
+
+El múltiple es la vía de escape de los gases generados por la combustión.
+
+
+
+
+
+
+Múltiple de admisión:
+ 
+Es la vía de acceso del aire para que se genere la combustión.
+
+
+
+Inyector:
+ 
+Es quien introduce el combustible al pistón, se ubica en la culata, al igual que las bujías (en caso de que existan).
+
+Si desarmamos un motor MEC y uno MECH, la principal diferencia visual estará en la presencia o no de bujías, el primero no tiene, mientras que el segundo, si
+
+
+
+
+Pregunta 2: Ventajas y desventajas de MCI frente a otros motores
+
+Los MCI tienen ventajas como lograr una gran autonomía con menor volumen de combustible, logran elevadas potencias, menor costo de adquisición. Mientras que sus desventajas son que contaminan, poco eficientes. 
+En cambio, un motor eléctrico, por ejemplo, tiene ventajas como que no contamina, tiene buena relación costo/uso. Pero por otro lado, sus desventajas como mayor costo de adquisición o baja autonomía, los hace un poco menos atractivos a la sociedad.
+
+
+Pregunta 3: Anillos de pistones
+
+Partamos diciendo para qué sirven los anillos en los pistones: para evitar fugas de combustible desde el pisto hacia el resto del motor, además regulan la cantidad de lubricante para evitar el roce del pistón con la pared del cilindro. Sus materiales variarán según el fabricante, algunos pueden ser de acero, otros de aleaciones metálicas y así según cada fabricante. Su forma es circular, ya que el pistón es circular (lógico, ¿no?)
+
+
+Pregunta 4: ¿Qué es el ovalamiento?
+
+Es una deformación producida en la camisa del cilindro, por un desgaste irregular de la superficie interna, lo que genera una deformación en forma de óvalo (de ahí el nombre ovalamiento u ovalación) 
+
+
+Pregunta 5: Funciones de eje leva, eje cigüeñal, alternador, motor de arranque y embrague
+
+Los primeros dos será omitidos, porque fueron dichas más arriba. Por lo que comenzaremos con el alternador.
+
+Alternador: es una máquina eléctrica que es capaz de convertir energía mecánica (como la de un cigüeñal) en energía eléctrica, un ejemplo de esto es un generador eléctrico que funcione a combustible (generalmente diésel).
+Motor de arranque: es un elemento que saca de la inercia al MCI, transmitiéndole un pequeño movimiento al cigüeñal. El motor de arranque funciona con una descarga eléctrica de la batería del vehículo, que pasa por un alternador de corriente y se transforma en energía mecánica capaz de mover el cigüeñal.
+Embrague: es un sistema que permite a controlar el par del motor, en el caso de un vehículo, el embrague nos permite pasar de un mayor par a uno menor, a través de los cambios, esto quiere decir que en primera marcha (o primer cambio) el par será mayor que si lo comparamos con la quinta marcha
+
+
+Pregunta 6: sobremedida o rectificado de metales en MCI
+
+Esto corresponde a una medida distinta a la que ofrece el fabricante por su catálogo, se puede producir por diversos factores como modificaciones para tunning, para lograr mejores potencias dentro del pistón. También se puede realizar un rectificado para ajustar medidas, por ejemplo si al ensamblar, el pistón queda topando la culata, se debe o modificar la culata o poner espaciadores.
+
+
+Ahora haremos la comparación de medidas reales vs medidas fabricante 
+
+Camisa Cilindro	Posición	Valor Medido	Valor Catalogo	Diferencia
+Diámetro Superior A [mm]	0°	100,05	100,01	0,05
+	120°	100,04	100,01	0,03
+	240°	100,04	100,01	0,03
+Diámetro Intermedio B [mm]	0°	100,03	100,01	0,02
+	120°	100,02	100,01	0,01
+	240°	100,03	100,01	0,02
+Diámetro Inferior C [mm]	0°	100,02	100,01	0,01
+	120°	100,03	100,01	0,02
+	240°	100,03	100,01	0,02
+
+Cigüeñal	Valor Medido	Valor Catalogo	Diferencia
+DM Biela 0°	59,94	59,94	0	
+DM Bancada 0°	69,96	69,97	0,01	
+DM Biela 90°	59,95	59,94	0,01	
+DM Bancada 90°	69,97	69,97	0	 
+AM Biela 0°	37,02	37	0,02	
+AM Bancada 0°	36,99	37	0,01	
+AM Biela 90°	37,01	37	0,01	
+AM Bancada 90°	36,99	37	0,01	
+
+DM = Diámetro Muñón
+AM = Ancho Muñón
+ 
+
+
+Las diferencias entre medidas de laboratorio y de catálogo, es porque se le han hecho ajustes al motor, por ejemplo, se han pulido algunas partes como la camisa, para que calce bien en el ensamblado. También está presente cierto desgaste, probablemente por problemas de lubricación, que genera roce entre las partes móviles.
