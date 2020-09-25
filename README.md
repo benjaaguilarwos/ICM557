@@ -115,7 +115,7 @@ Block:
 
  
 
-El block (o bloque, en español) es la zona del motor donde se “alojan” los demás componentes, es la base del motor. El block también determina la disposición de los pistones, en el caso de la foto, es un V8, esto quiere decir que los pistones forman una “V” y que hay 8 pistones (4 por cada lado)
+El block (o bloque, en español) es la zona del motor donde se “alojan” los demás componentes, es la base del motor. El block también determina la disposición de los pistones, por ejemplo un V8, esto quiere decir que los pistones forman una “V” y que hay 8 pistones (4 por cada lado)
 
 
 
@@ -136,7 +136,7 @@ El pistón del motor es donde sucede la combustión del combustible, es decir, d
 
 Bujía (solo aplica para los MECH)
   
-La bujía es la encargada de generar la chispa que enciende el combustible, en la parte de debajo de la foto es donde específicamente se genera la chispa.
+La bujía es la encargada de generar la chispa que enciende el combustible.
 
 
 
@@ -155,7 +155,7 @@ El cigüeñal es quien transforma la potencia de los pistones en movimiento, es 
 
 Culata: 
  
-La culata es la parte más alta del motor, es básicamente una tapa que tapa (valga la redundancia) los pistones.
+La culata es la parte más alta del motor, es básicamente una tapa que cubre los pistones.
 
 
 
