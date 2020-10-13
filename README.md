@@ -248,3 +248,84 @@ AM = Ancho Muñón
 
 
 Las diferencias entre medidas de laboratorio y de catálogo, es porque se le han hecho ajustes al motor, por ejemplo, se han pulido algunas partes como la camisa, para que calce bien en el ensamblado. También está presente cierto desgaste, probablemente por problemas de lubricación, que genera roce entre las partes móviles.
+
+
+
+
+
+
+
+Informe III Lab: Medición plena carga
+En este informe se medirán ciertos valores en el ensayo de Plena Carga de un Motor Diesel
+
+
+
+
+Potencias de freno (bp) [kW]:
+
+
+
+bp1= 17,01
+
+bp2= 18,91
+
+bp3= 25,31
+
+bp4= 26,96
+
+bp5= 28,26
+
+bp6= 33,42
+
+bp7= 32,48
+
+
+
+
+Presión media efectiva (bmep) [kPa]:
+
+
+
+bmep1= 7,21
+
+bmep2= 7,28
+
+bmep3= 7,66
+
+bmep4= 7,62
+
+bmep5= 7,51
+
+bmep6= 6,76
+
+bmep7= 6,27
+
+
+
+
+Torque (T) [Nm]
+
+
+
+T1= 162,11
+
+T2= 163,87
+
+T3= 172,39
+
+T4= 171,38
+
+T5= 168,88
+
+T6= 152,12
+
+T7= 141,11
+
+
+
+
+Densidad Diesel = 0,85 gr/cc
+
+
+Ecuación para consumo específico:
+
