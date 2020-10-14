@@ -362,21 +362,42 @@ CE6 = 228,90
 
 CE7 = 235,53
 
+https://github.com/benjaaguilarwos/ICM557/blob/master/CE%20Informe%20III.jpg
+
+
+
+
+
+
+
+
+
+https://github.com/benjaaguilarwos/ICM557/blob/master/Temperatura%20Informe%20III.jpg
 
 
 
 La temperatura ambiente sube muy levemente, por efecto del calor disipado desde el motor hacía el ambiente.
 
+
 La temperatura del aceite va subiendo, porque es quien refrigera el motor, por lo que al ir aumentando la velocidad, el motor va aumentando su temperatura, y por termodinamica, sabemos que que dos cuerpos al estar en contacto (o cerca en este caso), se transfiere calor del cuerpo mas caliente al mas frio, que es lo que observamos en el gráfico.
 
+
 La temperatura del escape se explica que como es la medida casi inmediatamente post- combustión, es la más elevada, pero esa caída se debe a efectos de pérdidas y refrigeración.
+
 
 La temperatura de admisión, presenta un leve aumento, esto debido al múltiple, que transfiere calor de salida a la entrada, cosa de aprovecharlo, ahorrando trabajo del motor.
 
 
 
+ttps://github.com/benjaaguilarwos/ICM557/blob/master/BMEP%20Informe%20III.jpg
+
 Analizando el gráfico de la MEP (o BMEP), se puede apreciar que el motor trabaja más a altas RPM, hasta que llega a su peak, cerca de las 2100 RPM, donde empieza a bajar, por lo que el motor trabaja más en las 2100 RPM, lo que nos dice que es el punto que más trabajo nos está dando y por tanto, la mejor velocidad para mantenerlo funcionando.
 
+
+
+
+
+https://github.com/benjaaguilarwos/ICM557/blob/master/Potencia%20y%20Torque%20Informe%20III.jpg
 
 
 La diferencia entre Potencia y Torque (aparte de las unidades, ya que el primero en SI se mide en [W] y el segundo en [N*m]) es que la primera es la rapidez con que puede trabajar el motor, mientras que la segunda es la fuerza del motors, que es entregada por giros. La potencia depende del torque y las RPM, ya que para obtener la potencia, se multiplica el torque y las RPM.
